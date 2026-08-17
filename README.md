@@ -1,10 +1,10 @@
 # new-ide — Discovery FOCUSED
 
-Ce repo héberge la réflexion produit d'un projet mené avec la méthodologie **FOCUSED** (Discovery Discipline, Rémi Guyot & Tristan Charvillat).
+Ce repo héberge la réflexion produit d'un projet mené avec la méthodologie **FOCUSED** 
 
 Il n'y a pas de code ici. Le livrable de ce repo, c'est la pensée : les activités qui l'ont produite, les livrables qui la figent, et l'historique git qui garde la trace des arbitrages.
 
-**Sujet du projet :** _à renseigner_
+**Sujet du projet :** L'objectif de ce projet est de réfléchir à la place de l'IDE dans un monde où l'IA écrit 100% du code et où l'arborescence de fichier d'une codebase où le code source d'un fichier ne sont probablement plus les bonnes informations à montrer aux builders. 
 
 ---
 
