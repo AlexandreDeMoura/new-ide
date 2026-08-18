@@ -92,7 +92,7 @@ Le détail de la convention (trailer `Renoncé:`, usage de chaque type) est dans
 
 | Étape | Activités | Livrable | Statut |
 |-------|-----------|----------|--------|
-| 1. Frame | 1 | — | divergence en cours |
+| 1. Frame | 2 | — | divergence en cours |
 | 2. Observe | — | — | à démarrer |
 | 3. Claim | — | — | à démarrer |
 | 4. Unfold | — | — | à démarrer |

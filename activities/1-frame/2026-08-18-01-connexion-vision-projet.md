@@ -70,7 +70,7 @@ M2 tombe donc par principe, pas par arbitrage de périmètre.
 
 ### Niveau 5 — Projet : l'action à mener
 
-**Nuée** (nom retenu au cours de l'activité). Un environnement de vibe coding où l'utilisateur démarre un nouveau projet — au lieu de le démarrer sur Cursor ou Lovable. Nuée est connecté à des instances Codex et/ou Claude Code. Quand l'IA modifie le code source, elle modifie aussi les vues de Nuée : l'utilisateur visualise la logique de son application et peut la reviewer, là où auparavant il avançait à l'aveugle en acceptant le code puis en vérifiant a posteriori par QA manuelle. La QA manuelle reste possible, elle n'est plus le seul filet.
+**Nuée** (nom retenu au cours de l'activité). Un environnement de vibe coding où l'utilisateur démarre un nouveau projet — au lieu de le démarrer sur Cursor ou Lovable. Nuée est connecté à des instances Codex et/ou Claude Code. Quand l'IA modifie le code source, elle modifie aussi les vues de Nuée : l'utilisateur visualise la logique de son application et peut la reviewer, là où auparavant il avançait à l'aveugle en acceptant le code puis en vérifiant a posteriori par QA manuelle. La QA manuelle reste importante, elle n'est plus le seul filet.
 
 **Second principe dur, tranché pendant l'activité :**
 
