@@ -93,8 +93,8 @@ Le détail de la convention (trailer `Renoncé:`, usage de chaque type) est dans
 | Étape | Activités | Livrable | Statut |
 |-------|-----------|----------|--------|
 | 1. Frame | 2 | figé (`frame-v1`) | close |
-| 2. Observe | — | — | divergence en cours |
-| 3. Claim | — | — | à démarrer |
+| 2. Observe | 0 | figé (`observe-v1`) | close |
+| 3. Claim | 0 | — | close |
 | 4. Unfold | — | — | à démarrer |
 | 5. Steal | — | — | à démarrer |
 | 6. Execute | — | — | à démarrer |
