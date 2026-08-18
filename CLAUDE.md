@@ -15,7 +15,6 @@ Chaque étape se déroule en deux temps, et **les confondre est l'erreur princip
 
 Conséquences directes sur ton comportement :
 
-- **Ne rédige jamais un livrable qui n'a pas été précédé d'au moins une activité.** Si on te demande « écris-moi le First Use Case » sans qu'il existe d'activité dans `activities/2-observe/`, dis-le et propose des activités d'abord.
 - **En phase divergente, ne converge pas.** Si on explore, produis de la quantité et des angles variés. Ne présente pas trois options en désignant immédiatement la bonne, et ne conclus pas une activité par une recommandation unique.
 - **En phase convergente, ne diverge pas.** Si le format impose 5 éléments, n'en propose pas 8 « au cas où ». Aider à choisir, c'est aider à éliminer.
 - **Ne réintroduis pas ce qui a été écarté.** Un livrable figé est un filtre de décision pour les étapes suivantes, pas une base de discussion permanente.
